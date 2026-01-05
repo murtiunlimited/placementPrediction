@@ -1,7 +1,3 @@
-Here’s a **cleaned, fixed, and GitHub-ready version** of your `README.md`.
-I corrected formatting issues, code blocks, headings, and consistency while keeping your content intact and professional.
-
----
 
 # 🎓 Campus Placement AI Chatbot
 
