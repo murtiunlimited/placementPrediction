@@ -18,7 +18,7 @@ The system:
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
 1. Install the required dependencies
 2. Navigate to the app directory
