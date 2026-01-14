@@ -1,6 +1,8 @@
 🎓 Placement Prediction System
 A machine learning-based web application that predicts student placement outcomes based on academic and demographic data. This project uses a Streamlit frontend and a Scikit-Learn backend.
+
 The LLM used in this project was using a API Key from GROQ CLOUD.
+
 Make your own API Key from GroqCloud and you can use the chatbot about 1000 times per month if on free plan (THIS MAY CHANGE)
 
 📁 Project Structure
