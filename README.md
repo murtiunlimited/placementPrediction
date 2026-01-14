@@ -21,7 +21,7 @@ placementPrediction/
 └── README.md
 ```
 ```text
-🚀 How to Run Locally
+🚀 How to Run Locally (BEFORE ALL THIS MAKE SURE TO ENTER YOUR API KEY FROM GROQCLOUD IN THE APP.PY FILE)
 Clone the Repository (Ensure you have the label encoder, model, and scaler files).
 
 Open the folder in your terminal.
