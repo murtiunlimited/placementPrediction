@@ -12,7 +12,7 @@ placementPrediction/
 │   ├── app.py                   # Streamlit web application
 │   ├── placement_model.pkl      # Trained ML model
 │   ├── scaler.pkl               # Data scaler for preprocessing
-│── dataset/
+├── dataset/
 │   └── Placement_Data_Full_Class.csv
 ├── cleaning.py                  # Script for data cleaning & feature engineering
 ├── modeltrain.py                # Script for model training and serialization
