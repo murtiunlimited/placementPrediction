@@ -1,11 +1,12 @@
-🎓 Placement Prediction System
+# 🎓 Placement Prediction System
+
 A machine learning-based web application that predicts student placement outcomes based on academic and demographic data. This project uses a Streamlit frontend and a Scikit-Learn backend.
 
 The LLM used in this project was using a API Key from GROQ CLOUD.
 
 Make your own API Key from GroqCloud and you can use the chatbot about 1000 times per month if on free plan (THIS MAY CHANGE)
 
-📁 Project Structure
+## 📁 Project Structure
 ```text
 placementPrediction/
 ├── app/
@@ -20,8 +21,9 @@ placementPrediction/
 ├── Dockerfile                   # (Coming Soon)
 └── README.md
 ```
+
+## 🚀 How to Run Locally (BEFORE ALL THIS MAKE SURE TO ENTER YOUR API KEY FROM GROQCLOUD IN THE APP.PY FILE)
 ```text
-🚀 How to Run Locally (BEFORE ALL THIS MAKE SURE TO ENTER YOUR API KEY FROM GROQCLOUD IN THE APP.PY FILE)
 Clone the Repository (Ensure you have the label encoder, model, and scaler files).
 
 Open the folder in your terminal.
@@ -36,8 +38,8 @@ streamlit run app.py
 Boom, done! You can now view the application in your local browser.
 ```
 
+## 📦 Requirements
 ```text
-📦 Requirements
 If you prefer downloading libraries individually:
 pandas
 numpy
@@ -48,8 +50,9 @@ chromadb
 sentence-transformers
 requests
 ```
+
+## ☁️ How to Run on Cloud (AWS EC2)
 ```text
-☁️ How to Run on Cloud (AWS EC2)
 1. Instance Setup
 Launch a new EC2 Ubuntu Machine on AWS.
 
