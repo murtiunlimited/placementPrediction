@@ -18,7 +18,7 @@ placementPrediction/
 ├── cleaning.py                  # Script for data cleaning & feature engineering
 ├── modeltrain.py                # Script for model training and serialization
 ├── requirements.txt             # Project dependencies
-├── Dockerfile                   # (Coming Soon)
+├── Dockerfile                   # Used For Production
 └── README.md
 ```
 
