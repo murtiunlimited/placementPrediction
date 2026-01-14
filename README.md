@@ -69,6 +69,7 @@ curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
 sudo usermod -aG docker ubuntu
 newgrp docker
+git clone https://github.com/murtiunlimited/placementPrediction.git
 
 3. Build and Deploy
 After installing Docker, build the image from the root folder:
