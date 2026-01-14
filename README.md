@@ -35,21 +35,13 @@ Boom, done! You can now view the application in your local browser.
 ```text
 📦 Requirements
 If you prefer downloading libraries individually:
-
 pandas
-
 numpy
-
 scikit-learn
-
 streamlit
-
 openai
-
 chromadb
-
 sentence-transformers
-
 requests
 ```
 ```text
